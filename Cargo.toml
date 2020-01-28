@@ -1,0 +1,18 @@
+[package]
+name = "dlbars"
+version = "0.0.0"
+authors = ["Ryo Yamashita <qryxip@gmail.com>"]
+edition = "2018"
+publish = false
+description = "Download progress bars for CLI"
+# documentation = "https://docs.rs/dlbars"
+repository = "https://github.com/qryxip/dlbars"
+readme = "README.md"
+keywords = ["async", "cli", "pb", "progress", "progressbar", "tokio"]
+categories = ["command-line-interface"]
+license = "MIT OR Apache-2.0"
+
+[badges]
+maintenance = { status = "experimental" }
+
+[dependencies]
